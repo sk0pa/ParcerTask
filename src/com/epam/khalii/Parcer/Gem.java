@@ -74,7 +74,7 @@ public class Gem {
     }
 
     public Gem() {
-        VisualComponents visualComponents = new VisualComponents();
+        visualComponents = new VisualComponents();
     }
 
     public String getName() {
